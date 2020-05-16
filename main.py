@@ -1,6 +1,7 @@
 print ("hello world")
 print ("49+2="+str(49+2))
 print (49^5)
+# this is all the comment
 print ('''hello world
 hello python''')
 print ("49+2="+str(49+2)+str(49-5))
